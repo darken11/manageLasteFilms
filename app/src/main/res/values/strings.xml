@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PocketMovie</string>
+    <string name="video">Video</string>
+    <string name="recent_movie">Recent movies</string>
+    <string name="pocket">Pocket</string>
+    <string name="next">Next Page …</string>
+    <string name="dateDeSortie">Date de sortie - Note</string>
+    <string name="resume">Resume</string>
+    <string name="title">Titre</string>
+    <string name="backdropImageDescription">…</string>
+</resources>
